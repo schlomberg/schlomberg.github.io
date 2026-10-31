@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the theme's sidebar and footer. */
+.wrapper > header,
+.wrapper > footer {
+  display: none;
+}
+
+/* Centre the page and allow it to use the available width. */
+div.wrapper {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Expand the main content into a single column. */
+.wrapper > section {
+  float: none;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
