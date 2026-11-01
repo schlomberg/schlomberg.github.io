@@ -8,9 +8,6 @@ title: Home
      alt="Portrait of Niklas Schlomberg"
      class="profile-photo">
 
-## Research
-
-Your research section goes here.
 # Niklas Schlomberg
 
 **Postdoctoral researcher**  
@@ -18,8 +15,6 @@ Department of Innovative Technologies
 IDSIA Lugano, Switzerland  
 **Office:** Polo universitario Lugano, Campus Est, Via la Santa 1, CH-6962 Lugano-Viganello  
 **E-Mail:** niklas.schlomberg (at) supsi.ch
-
-![Portrait of Niklas Schlomberg](/niklas.png)
 
 ## About me
 
