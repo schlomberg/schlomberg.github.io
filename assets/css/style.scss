@@ -24,3 +24,25 @@ div.wrapper {
   padding: 0;
   border: 0;
 }
+/* Keep the picture and biography together. */
+.bio {
+  display: flow-root;
+}
+
+/* Picture on the right, with text beside it. */
+.bio .profile-photo {
+  display: block;
+  float: right;
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 20px 24px;
+}
+
+/* On narrow screens, centre the picture above the text. */
+@media (max-width: 600px) {
+  .bio .profile-photo {
+    float: none;
+    margin: 0 auto 20px;
+  }
+}

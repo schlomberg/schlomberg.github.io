@@ -2,7 +2,15 @@
 layout: default
 title: Home
 ---
+<div class="bio" markdown="1">
 
+<img src="/niklas.png"
+     alt="Portrait of Niklas Schlomberg"
+     class="profile-photo">
+
+## Research
+
+Your research section goes here.
 # Niklas Schlomberg
 
 **Postdoctoral researcher**  
@@ -11,7 +19,7 @@ IDSIA Lugano, Switzerland
 **Office:** Polo universitario Lugano, Campus Est, Via la Santa 1, CH-6962 Lugano-Viganello  
 **E-Mail:** niklas.schlomberg (at) supsi.ch
 
-![Portrait of Niklas Schlomberg](/niklas.jpg)
+![Portrait of Niklas Schlomberg](/niklas.png)
 
 ## About me
 
@@ -22,6 +30,8 @@ When not thinking about mathematics, I enjoy running or hiking in the Swiss Alps
 I also like to play board games.
 
 A recent version of my [CV](/public_cv.pdf) is available here.
+
+</div>
 
 ## Publications
 
