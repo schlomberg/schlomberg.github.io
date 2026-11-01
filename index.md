@@ -11,12 +11,15 @@ IDSIA Lugano, Switzerland
 **Office:** Polo universitario Lugano, Campus Est, Via la Santa 1, CH-6962 Lugano-Viganello  
 **E-Mail:** niklas.schlomberg (at) supsi.ch
 
+![Portrait of Niklas Schlomberg](/niklas.jpg)
+
 ## About me
 
 I am a postdoc with Fabrizio Grandoni at IDSIA in Lugano. Before this, I completed my PhD under the supervision of Jens Vygen at the University of Bonn.
 My main research interests are in the field of combinatorial optimization, approximation algorithms, and graph theory.
 
 When not thinking about mathematics, I enjoy running or hiking in the Swiss Alps (although it might happen from time to time that I also think about mathematics on my outdoor adventures).
+I also like to play board games.
 
 A recent version of my [CV](/public_cv.pdf) is available here.
 
