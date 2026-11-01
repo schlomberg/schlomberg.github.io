@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="bio" markdown="1">
 
-<img src="/niklas.png"
+<img src="/niklas_picture.jpg"
      alt="Portrait of Niklas Schlomberg"
      class="profile-photo">
 
